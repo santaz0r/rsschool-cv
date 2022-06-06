@@ -61,7 +61,7 @@ function countSheeps(arrayOfSheep) {
 
 ---
 
-- **Industrial University of Tyumen** Department of Urban Construction and Economy
+- **Industrial University of Tyumen** Faculty of Urban Construction and Economy
 
 ### Courses
 
