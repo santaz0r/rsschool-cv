@@ -5,7 +5,7 @@
 - **Location:** Tyumen, Russia
 - **Phone:** +7 908 8698808
 - **Email:** victormura96@gmail.com
-- **GitHub:** [https://github.com/santaz0r][santaz0r]
+- **GitHub:** [https://github.com/santaz0r] (santaz0r)
 - **Telegram:** @VictorMura
 
 ### About Me
@@ -52,15 +52,15 @@ function countSheeps(arrayOfSheep) {
 
 ### Courses
 
-- **Udemy** [https://www.udemy.com/course/webdeveloper/][html5/css3]
-- **Result School** [https://vladilen.ru/junior][javascript, reactjs, nodejs]
+- **Udemy** [https://www.udemy.com/course/webdeveloper/] [html5 css3]
+- **Result School** [https://vladilen.ru/junior] [javascript, reactjs, nodejs]
 
 ### Examples
 
-- [https://github.com/santaz0r/diploma][graduate work]
-- [https://github.com/santaz0r/reactHackathon][react hackathon]
-- [https://github.com/santaz0r/glopt][html basics]
-- [https://github.com/santaz0r/uber][html basics]
+- [https://github.com/santaz0r/diploma] [graduate work]
+- [https://github.com/santaz0r/reactHackathon] [react hackathon]
+- [https://github.com/santaz0r/glopt] [html basics]
+- [https://github.com/santaz0r/uber] [html basics]
 
 ### Languages
 
