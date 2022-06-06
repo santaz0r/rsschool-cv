@@ -11,6 +11,7 @@
 - **Email:** victormura96@gmail.com
 - **GitHub:** [santaz0r](https://github.com/santaz0r "santaz0r")
 - **Telegram:** @VictorMura
+- **VK:** [Виктор Муравьев](https://vk.com/victormur "Виктор Муравьев")
 
 ### About Me
 
@@ -66,17 +67,19 @@ function countSheeps(arrayOfSheep) {
 
 ---
 
-- **Udemy** [html5/css3](https://www.udemy.com/course/webdeveloper/)
-- **Result School** [javascript, reactjs, nodejs](https://vladilen.ru/junior)
+- **Udemy**
+  [HTML5/CSS3](https://www.udemy.com/course/webdeveloper/)
+- **Result School**
+  [JavaScript, ReactJS, NodeJS](https://vladilen.ru/junior)
 
 ### Examples
 
 ---
 
-- [graduate work](https://github.com/santaz0r/diploma "Выпускная работа")
-- [react hackathon](https://github.com/santaz0r/reacthackathon "Хакатон")
-- [html/CSS basics](https://github.com/santaz0r/glopt "HTML/CSS")
-- [html/CSS basics](https://github.com/santaz0r/uber "HTML/CSS")
+- [Graduate work](https://github.com/santaz0r/diploma "Выпускная работа")
+- [React hackathon](https://github.com/santaz0r/reacthackathon "Хакатон")
+- [HTML/CSS basics](https://github.com/santaz0r/glopt "HTML/CSS")
+- [HTML/CSS basics](https://github.com/santaz0r/uber "HTML/CSS")
 
 ### Languages
 
