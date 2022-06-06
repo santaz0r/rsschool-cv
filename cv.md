@@ -1,1 +1,68 @@
 ## Victor Muravev
+
+### Contacts
+
+- **Location:** Tyumen, Russia
+- **Phone:** +7 908 8698808
+- **Email:** victormura96@gmail.com
+- **GitHub:** [https://github.com/santaz0r][santaz0r]
+- **Telegram:** @VictorMura
+
+### About Me
+
+I am 26 y.o. I work in warehouse logistics.I want to learn new things that will benefit people in the age of IT technology. Therefore, a year ago, in my free time, I began to study the front end on my own. I managed to participate in the co-development of an educational project at one of the courses. I am diligent, calm.
+
+### Skills
+
+- HTML5, CSS3(SCSS, BEM) (basic)
+- JavaScript (basic)
+- ReactJS (+Redux) (basic)
+- NodeJs (basic)
+- Git, GitHub (basic)
+- Figma (basic)
+
+### Code Example
+
+Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
+For example,
+
+```
+[true,  true,  true,  false,
+  true,  true,  true,  true ,
+  true,  false, true,  false,
+  true,  false, false, true ,
+  true,  true,  true,  true ,
+  false, false, true,  true]
+```
+
+My solution:
+
+```
+function countSheeps(arrayOfSheep) {
+  const total = arrayOfSheep.filter((sheep) => {
+    return sheep ? sheep : null;
+  });
+  return total.length;
+}
+```
+
+### Education
+
+- **Industrial University of Tyumen** Department of Urban Construction and Economy
+
+### Courses
+
+- **Udemy** [https://www.udemy.com/course/webdeveloper/][html5/css3]
+- **Result School** [https://vladilen.ru/junior][javascript, reactjs, nodejs]
+
+### Examples
+
+- [https://github.com/santaz0r/diploma][graduate work]
+- [https://github.com/santaz0r/reactHackathon][react hackathon]
+- [https://github.com/santaz0r/glopt][html basics]
+- [https://github.com/santaz0r/uber][html basics]
+
+### Languages
+
+- **Russian** - native
+- **English** - A1+ (B1 in process)
