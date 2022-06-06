@@ -11,7 +11,7 @@
 - **Email:** victormura96@gmail.com
 - **GitHub:** [santaz0r](https://github.com/santaz0r "santaz0r")
 - **Telegram:** @VictorMura
-- **VK:** [Виктор Муравьев](https://vk.com/victormur "Виктор Муравьев")
+- **VK:** [Victor Muravev](https://vk.com/victormur "Victor Muravev")
 
 ### About Me
 
