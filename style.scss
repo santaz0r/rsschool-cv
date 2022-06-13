@@ -87,7 +87,17 @@
     &__content {
         display: flex;
     }
-    
+    &__contacts {
+        &-content {
+            list-style-type: none;
+            padding: 0;
+            
+        }
+    }
+ 
+}
+.descr {
+    text-align: center
 }
 .footer {
     max-height: 40px;
